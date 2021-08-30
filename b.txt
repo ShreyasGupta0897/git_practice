@@ -1,2 +1,4 @@
 abcd in b.txt
 bbb
+merged_data
+ccc
