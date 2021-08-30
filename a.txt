@@ -1,0 +1,2 @@
+adding text in a.txt
+appending lol
